@@ -27,7 +27,7 @@
 # 20140404 Ignore database, compiled, and packaged files
 # 20140404 Header Information Updated
 # 20140402 Initially Published
-#
+#https://github.com/letunhatkong/hotdog.git
 # -----------------------------------------------------------------
 
 # ignore everything in the root except the "wp-content" directory.
